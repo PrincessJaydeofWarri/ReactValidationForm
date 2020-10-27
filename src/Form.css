@@ -87,7 +87,7 @@
 .form-inputs p {
   font-size: 0.8rem;
   margin-top: 0.5rem;
-  color: blue;
+  color: #f10e9a;
   font-style: italic;
   font-weight: bold;
 }
@@ -142,6 +142,6 @@
 
 .form-input-login a {
   text-decoration: none;
-  color: #27cdff;
+  color: #f10e9a;
   font-weight: 600;
 }
